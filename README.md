@@ -1,4 +1,4 @@
-1. Strona devell.co
+1. Texts to be written:
 	- about
 		- remote based software development and consulting company
 		- business needs focused
@@ -11,4 +11,3 @@
 			- architecture planning
 			- agile processes implementation
 	- contact
-
