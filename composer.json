@@ -1,0 +1,17 @@
+{
+    "name": "devell/devell.co",
+    "require": {
+        "silex/silex": "^1.3",
+        "twig/twig": "~1.0",
+        "erusev/parsedown": "^1.6"
+    },
+    "authors": [
+        {
+            "name": "Filip Gorny",
+            "email": "filip.gorny@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"": "src/"}
+    }
+}
